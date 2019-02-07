@@ -1,0 +1,10 @@
+﻿Flask==0.10.1
+numpy==1.10.4
+pandas==0.17.1
+scikit-learn==0.19.1
+fasttext==0.8.3
+BeautifulSoup==4.4.0
+nltk==3.2.5
+re
+scipy==1.0.0
+
